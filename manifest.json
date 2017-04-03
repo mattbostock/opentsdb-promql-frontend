@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "github.com/miekg/dns": {
+            "revision": "672033dedc09500ca4d340760d0b80b9c0b198bd"
+        },
+        "github.com/prometheus/client_golang": {
+            "branch": "master"
+        },
+        "github.com/prometheus/common": {
+            "branch": "master"
+        },
+        "github.com/prometheus/prometheus": {
+            "branch": "dev-2.0"
+        },
+        "golang.org/x/net": {
+            "branch": "master"
+        }
+    }
+}

@@ -1,0 +1,745 @@
+{
+    "memo": "7f64bab95e2ed60a6f3861a6bb89ed9f699b3ec75ac54839a46387c7085d4b63",
+    "projects": [
+        {
+            "name": "github.com/Azure/azure-sdk-for-go",
+            "branch": "master",
+            "revision": "95361a2573b1fa92a00c5fc2707a80308483c6f9",
+            "packages": [
+                "arm/compute",
+                "arm/network"
+            ]
+        },
+        {
+            "name": "github.com/Azure/go-autorest",
+            "branch": "master",
+            "revision": "bebca455f60b24bf6a2459e9e862ff42da86f5e0",
+            "packages": [
+                "autorest",
+                "autorest/azure",
+                "autorest/date",
+                "autorest/to"
+            ]
+        },
+        {
+            "name": "github.com/PuerkitoBio/purell",
+            "version": "v1.1.0",
+            "revision": "0bcb03f4b4d0a9428594752bd2a3b9aa0a9d4bd4",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/PuerkitoBio/urlesc",
+            "branch": "master",
+            "revision": "bbf7a2afc14f93e1e0a5c06df524fbd75e5031e5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/Sirupsen/logrus",
+            "branch": "master",
+            "revision": "3ec0642a7fb6488f65b06f9040adc67e3990296a",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/aws/aws-sdk-go",
+            "version": "v1.8.10",
+            "revision": "d643bdf04f2cc6f95424f9f4e69037a563fc0736",
+            "packages": [
+                "aws",
+                "aws/awserr",
+                "aws/awsutil",
+                "aws/client",
+                "aws/client/metadata",
+                "aws/corehandlers",
+                "aws/credentials",
+                "aws/credentials/ec2rolecreds",
+                "aws/credentials/endpointcreds",
+                "aws/credentials/stscreds",
+                "aws/defaults",
+                "aws/ec2metadata",
+                "aws/endpoints",
+                "aws/request",
+                "aws/session",
+                "aws/signer/v4",
+                "private/protocol",
+                "private/protocol/ec2query",
+                "private/protocol/query",
+                "private/protocol/query/queryutil",
+                "private/protocol/rest",
+                "private/protocol/xml/xmlutil",
+                "service/ec2",
+                "service/sts"
+            ]
+        },
+        {
+            "name": "github.com/beorn7/perks",
+            "branch": "master",
+            "revision": "4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9",
+            "packages": [
+                "quantile"
+            ]
+        },
+        {
+            "name": "github.com/blang/semver",
+            "version": "v3.5.0",
+            "revision": "b38d23b8782a487059e8fc8773e9a5b228a77cb6",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/cespare/xxhash",
+            "branch": "master",
+            "revision": "09e1e23aaa83fc6b47aa8aedbb62846c521ede77",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/coreos/etcd",
+            "version": "v3.1.5",
+            "revision": "20490caaf0dcd96bb4a95e40625559def8ef5b04",
+            "packages": [
+                "pkg/fileutil"
+            ]
+        },
+        {
+            "name": "github.com/coreos/go-oidc",
+            "branch": "master",
+            "revision": "be73733bb8cc830d0205609b95d125215f8e9c70",
+            "packages": [
+                "http",
+                "jose",
+                "key",
+                "oauth2",
+                "oidc"
+            ]
+        },
+        {
+            "name": "github.com/coreos/go-systemd",
+            "version": "v14",
+            "revision": "48702e0da86bd25e76cfef347e2adeb434a0d0a6",
+            "packages": [
+                "journal"
+            ]
+        },
+        {
+            "name": "github.com/coreos/pkg",
+            "version": "v3",
+            "revision": "3ac0863d7acf3bc44daf49afef8919af12f704ef",
+            "packages": [
+                "capnslog",
+                "health",
+                "httputil",
+                "timeutil"
+            ]
+        },
+        {
+            "name": "github.com/davecgh/go-spew",
+            "version": "v1.1.0",
+            "revision": "346938d642f2ec3594ed81d874461961cd0faa76",
+            "packages": [
+                "spew"
+            ]
+        },
+        {
+            "name": "github.com/dgrijalva/jwt-go",
+            "branch": "master",
+            "revision": "7c18dce7b8ff32db34d4b7054d488db656d75cc3",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/dgryski/go-bits",
+            "branch": "master",
+            "revision": "2ad8d707cc05b1815ce6ff2543bb5e8d8f9298ef",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/docker/distribution",
+            "version": "v2.6.1",
+            "revision": "a25b9ef0c9fe242ac04bb20d3a028442b7d266b6",
+            "packages": [
+                "digest",
+                "reference"
+            ]
+        },
+        {
+            "name": "github.com/emicklei/go-restful",
+            "version": "v1.2",
+            "revision": "777bb3f19bcafe2575ffb2a3e46af92509ae9594",
+            "packages": [
+                ".",
+                "log",
+                "swagger"
+            ]
+        },
+        {
+            "name": "github.com/ghodss/yaml",
+            "version": "v1.0.0",
+            "revision": "0ca9ea5df5451ffdf184b4428c902747c2c11cd7",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-ini/ini",
+            "version": "v1.27.0",
+            "revision": "e7fea39b01aea8d5671f6858f0532f56e8bff3a5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-kit/kit",
+            "version": "v0.4.0",
+            "revision": "fadad6fffe0466b19df9efd9acde5c9a52df5fa4",
+            "packages": [
+                "log"
+            ]
+        },
+        {
+            "name": "github.com/go-logfmt/logfmt",
+            "version": "v0.3.0",
+            "revision": "390ab7935ee28ec6b286364bba9b4dd6410cb3d5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-openapi/jsonpointer",
+            "branch": "master",
+            "revision": "779f45308c19820f1a69e9a4cd965f496e0da10f",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-openapi/jsonreference",
+            "branch": "master",
+            "revision": "36d33bfe519efae5632669801b180bf1a245da3b",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-openapi/spec",
+            "branch": "master",
+            "revision": "02fb9cd3430ed0581e0ceb4804d5d4b3cc702694",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-openapi/swag",
+            "branch": "master",
+            "revision": "d5f8ebc3b1c55a4cf6489eeae7354f338cfe299e",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-stack/stack",
+            "version": "v1.5.2",
+            "revision": "100eb0c0a9c5b306ca2fb4f165df21d80ada4b82",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/gogo/protobuf",
+            "version": "v0.4",
+            "revision": "100ba4e885062801d56799d78530b73b178a78f3",
+            "packages": [
+                "proto",
+                "sortkeys"
+            ]
+        },
+        {
+            "name": "github.com/golang/glog",
+            "branch": "master",
+            "revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/golang/protobuf",
+            "branch": "master",
+            "revision": "98fa357170587e470c5f27d3c3ea0947b71eb455",
+            "packages": [
+                "proto"
+            ]
+        },
+        {
+            "name": "github.com/google/gofuzz",
+            "branch": "master",
+            "revision": "44d81051d367757e1c7c6a5a86423ece9afcf63c",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/hashicorp/consul",
+            "version": "v0.8.0",
+            "revision": "402636ff2db998edef392ac6d59210d2170b3ebf",
+            "packages": [
+                "api"
+            ]
+        },
+        {
+            "name": "github.com/hashicorp/go-cleanhttp",
+            "branch": "master",
+            "revision": "3573b8b52aa7b37b9358d966a898feb387f62437",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/hashicorp/serf",
+            "version": "v0.8.1",
+            "revision": "d6574a5bb1226678d7010325fb6c985db20ee458",
+            "packages": [
+                "coordinate"
+            ]
+        },
+        {
+            "name": "github.com/jmespath/go-jmespath",
+            "version": "0.2.2",
+            "revision": "3433f3ea46d9f8019119e7dd41274e112a2359a9",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/jonboulle/clockwork",
+            "version": "v0.1.0",
+            "revision": "2eee05ed794112d45db504eb05aa693efd2b8b09",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/juju/ratelimit",
+            "branch": "master",
+            "revision": "acf38b000a03e4ab89e40f20f1e548f4e6ac7f72",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/julienschmidt/httprouter",
+            "branch": "master",
+            "revision": "59934fa0c2a7f256261ac927b5b96f38f1115597",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/kr/logfmt",
+            "branch": "master",
+            "revision": "b84e30acd515aadc4b783ad4ff83aff3299bdfe0",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mailru/easyjson",
+            "branch": "master",
+            "revision": "2af9a745a611440bab0528e5ac19b2805a1c50eb",
+            "packages": [
+                "buffer",
+                "jlexer",
+                "jwriter"
+            ]
+        },
+        {
+            "name": "github.com/matttproud/golang_protobuf_extensions",
+            "branch": "master",
+            "revision": "c12348ce28de40eed0136aa2b644d0ee0650e56c",
+            "packages": [
+                "pbutil"
+            ]
+        },
+        {
+            "name": "github.com/miekg/dns",
+            "branch": "master",
+            "revision": "672033dedc09500ca4d340760d0b80b9c0b198bd",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/nightlyone/lockfile",
+            "branch": "master",
+            "revision": "1d49c987357a327b5b03aa84cbddd582c328615d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/oklog/ulid",
+            "version": "v0.3.0",
+            "revision": "d311cb43c92434ec4072dfbbda3400741d0a6337",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pborman/uuid",
+            "version": "v1.0",
+            "revision": "a97ce2ca70fa5a848076093f05e639a89ca34d06",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pkg/errors",
+            "version": "v0.8.0",
+            "revision": "645ef00459ed84a119197bfb8d8205042c6df63d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/prometheus/client_golang",
+            "branch": "master",
+            "revision": "08fd2e12372a66e68e30523c7642e0cbc3e4fbde",
+            "packages": [
+                "prometheus"
+            ]
+        },
+        {
+            "name": "github.com/prometheus/client_model",
+            "branch": "master",
+            "revision": "fa8ad6fec33561be4280a8f0514318c79d7f6cb6",
+            "packages": [
+                "go"
+            ]
+        },
+        {
+            "name": "github.com/prometheus/common",
+            "branch": "master",
+            "revision": "49fee292b27bfff7f354ee0f64e1bc4850462edf",
+            "packages": [
+                "expfmt",
+                "internal/bitbucket.org/ww/goautoneg",
+                "log",
+                "model",
+                "route",
+                "version"
+            ]
+        },
+        {
+            "name": "github.com/prometheus/procfs",
+            "branch": "master",
+            "revision": "abf152e5f3e97f2fafac028d2cc06c1feb87ffa5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/prometheus/prometheus",
+            "branch": "dev-2.0",
+            "revision": "5d902b9a06a72aea7d4a941a21826d50e732a5f2",
+            "packages": [
+                "config",
+                "discovery",
+                "discovery/azure",
+                "discovery/consul",
+                "discovery/dns",
+                "discovery/ec2",
+                "discovery/file",
+                "discovery/gce",
+                "discovery/kubernetes",
+                "discovery/marathon",
+                "discovery/triton",
+                "discovery/zookeeper",
+                "pkg/labels",
+                "pkg/relabel",
+                "pkg/textparse",
+                "pkg/timestamp",
+                "promql",
+                "retrieval",
+                "storage",
+                "storage/tsdb",
+                "util/httputil",
+                "util/stats",
+                "util/strutil",
+                "util/testutil",
+                "util/treecache"
+            ]
+        },
+        {
+            "name": "github.com/prometheus/tsdb",
+            "branch": "master",
+            "revision": "1579e12011fbf6249c507f9acae6b610e2870a71",
+            "packages": [
+                ".",
+                "chunks",
+                "labels"
+            ]
+        },
+        {
+            "name": "github.com/samuel/go-zookeeper",
+            "branch": "master",
+            "revision": "1d7be4effb13d2d908342d349d71a284a7542693",
+            "packages": [
+                "zk"
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "branch": "master",
+            "revision": "9a906f17374922ed0f74e1b2f593d3723f2ffb00",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/ugorji/go",
+            "branch": "master",
+            "revision": "708a42d246822952f38190a8d8c4e6b16a0e600c",
+            "packages": [
+                "codec"
+            ]
+        },
+        {
+            "name": "golang.org/x/net",
+            "branch": "master",
+            "revision": "b4690f45fa1cafc47b1c280c2e75116efe40cc13",
+            "packages": [
+                "context",
+                "context/ctxhttp",
+                "http2",
+                "http2/hpack",
+                "idna",
+                "lex/httplex"
+            ]
+        },
+        {
+            "name": "golang.org/x/oauth2",
+            "branch": "master",
+            "revision": "045497edb6234273d67dbc25da3f2ddbc4c4cacf",
+            "packages": [
+                ".",
+                "google",
+                "internal",
+                "jws",
+                "jwt"
+            ]
+        },
+        {
+            "name": "golang.org/x/sync",
+            "branch": "master",
+            "revision": "5a06fca2c336a4b2b2fcb45702e8c47621b2aa2c",
+            "packages": [
+                "errgroup"
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "002cbb5f952456d0c50e0d2aff17ea5eca716979",
+            "packages": [
+                "unix",
+                "windows",
+                "windows/registry",
+                "windows/svc/eventlog"
+            ]
+        },
+        {
+            "name": "golang.org/x/text",
+            "branch": "master",
+            "revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+            "packages": [
+                "internal/gen",
+                "internal/triegen",
+                "internal/ucd",
+                "transform",
+                "unicode/cldr",
+                "unicode/norm",
+                "width"
+            ]
+        },
+        {
+            "name": "google.golang.org/api",
+            "branch": "master",
+            "revision": "286e8c9bcb5f84d8dcac21634d79ab16428b1b78",
+            "packages": [
+                "compute/v1",
+                "gensupport",
+                "googleapi",
+                "googleapi/internal/uritemplates"
+            ]
+        },
+        {
+            "name": "google.golang.org/appengine",
+            "branch": "master",
+            "revision": "c98f627282072b1230c8795abe98e2914c8a1de9",
+            "packages": [
+                ".",
+                "internal",
+                "internal/app_identity",
+                "internal/base",
+                "internal/datastore",
+                "internal/log",
+                "internal/modules",
+                "internal/remote_api",
+                "internal/urlfetch",
+                "urlfetch"
+            ]
+        },
+        {
+            "name": "google.golang.org/cloud",
+            "branch": "master",
+            "revision": "3fb76bc404703eddc53d1e407eaa665ab3881362",
+            "packages": [
+                "compute/metadata",
+                "internal"
+            ]
+        },
+        {
+            "name": "gopkg.in/fsnotify.v1",
+            "branch": "master",
+            "revision": "508915b7500b6e42a87132e4afeb4729cebc7cbb",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/inf.v0",
+            "version": "v0.9.0",
+            "revision": "3887ee99ecf07df5b447e9b00d9c0b2adaa9f3e4",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "branch": "master",
+            "revision": "a83829b6f1293c91addabc89d0571c246397bbf4",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "k8s.io/client-go",
+            "version": "v1.5.1",
+            "revision": "1195e3a8ee1a529d53eed7c624527a68555ddf1f",
+            "packages": [
+                "1.5/discovery",
+                "1.5/kubernetes",
+                "1.5/kubernetes/typed/apps/v1alpha1",
+                "1.5/kubernetes/typed/authentication/v1beta1",
+                "1.5/kubernetes/typed/authorization/v1beta1",
+                "1.5/kubernetes/typed/autoscaling/v1",
+                "1.5/kubernetes/typed/batch/v1",
+                "1.5/kubernetes/typed/certificates/v1alpha1",
+                "1.5/kubernetes/typed/core/v1",
+                "1.5/kubernetes/typed/extensions/v1beta1",
+                "1.5/kubernetes/typed/policy/v1alpha1",
+                "1.5/kubernetes/typed/rbac/v1alpha1",
+                "1.5/kubernetes/typed/storage/v1beta1",
+                "1.5/pkg/api",
+                "1.5/pkg/api/errors",
+                "1.5/pkg/api/install",
+                "1.5/pkg/api/meta",
+                "1.5/pkg/api/meta/metatypes",
+                "1.5/pkg/api/resource",
+                "1.5/pkg/api/unversioned",
+                "1.5/pkg/api/v1",
+                "1.5/pkg/api/validation/path",
+                "1.5/pkg/apimachinery",
+                "1.5/pkg/apimachinery/announced",
+                "1.5/pkg/apimachinery/registered",
+                "1.5/pkg/apis/apps",
+                "1.5/pkg/apis/apps/install",
+                "1.5/pkg/apis/apps/v1alpha1",
+                "1.5/pkg/apis/authentication",
+                "1.5/pkg/apis/authentication/install",
+                "1.5/pkg/apis/authentication/v1beta1",
+                "1.5/pkg/apis/authorization",
+                "1.5/pkg/apis/authorization/install",
+                "1.5/pkg/apis/authorization/v1beta1",
+                "1.5/pkg/apis/autoscaling",
+                "1.5/pkg/apis/autoscaling/install",
+                "1.5/pkg/apis/autoscaling/v1",
+                "1.5/pkg/apis/batch",
+                "1.5/pkg/apis/batch/install",
+                "1.5/pkg/apis/batch/v1",
+                "1.5/pkg/apis/batch/v2alpha1",
+                "1.5/pkg/apis/certificates",
+                "1.5/pkg/apis/certificates/install",
+                "1.5/pkg/apis/certificates/v1alpha1",
+                "1.5/pkg/apis/extensions",
+                "1.5/pkg/apis/extensions/install",
+                "1.5/pkg/apis/extensions/v1beta1",
+                "1.5/pkg/apis/policy",
+                "1.5/pkg/apis/policy/install",
+                "1.5/pkg/apis/policy/v1alpha1",
+                "1.5/pkg/apis/rbac",
+                "1.5/pkg/apis/rbac/install",
+                "1.5/pkg/apis/rbac/v1alpha1",
+                "1.5/pkg/apis/storage",
+                "1.5/pkg/apis/storage/install",
+                "1.5/pkg/apis/storage/v1beta1",
+                "1.5/pkg/auth/user",
+                "1.5/pkg/conversion",
+                "1.5/pkg/conversion/queryparams",
+                "1.5/pkg/fields",
+                "1.5/pkg/genericapiserver/openapi/common",
+                "1.5/pkg/labels",
+                "1.5/pkg/runtime",
+                "1.5/pkg/runtime/serializer",
+                "1.5/pkg/runtime/serializer/json",
+                "1.5/pkg/runtime/serializer/protobuf",
+                "1.5/pkg/runtime/serializer/recognizer",
+                "1.5/pkg/runtime/serializer/streaming",
+                "1.5/pkg/runtime/serializer/versioning",
+                "1.5/pkg/selection",
+                "1.5/pkg/third_party/forked/golang/reflect",
+                "1.5/pkg/types",
+                "1.5/pkg/util",
+                "1.5/pkg/util/cert",
+                "1.5/pkg/util/clock",
+                "1.5/pkg/util/errors",
+                "1.5/pkg/util/flowcontrol",
+                "1.5/pkg/util/framer",
+                "1.5/pkg/util/integer",
+                "1.5/pkg/util/intstr",
+                "1.5/pkg/util/json",
+                "1.5/pkg/util/labels",
+                "1.5/pkg/util/net",
+                "1.5/pkg/util/parsers",
+                "1.5/pkg/util/rand",
+                "1.5/pkg/util/runtime",
+                "1.5/pkg/util/sets",
+                "1.5/pkg/util/uuid",
+                "1.5/pkg/util/validation",
+                "1.5/pkg/util/validation/field",
+                "1.5/pkg/util/wait",
+                "1.5/pkg/util/yaml",
+                "1.5/pkg/version",
+                "1.5/pkg/watch",
+                "1.5/pkg/watch/versioned",
+                "1.5/plugin/pkg/client/auth",
+                "1.5/plugin/pkg/client/auth/gcp",
+                "1.5/plugin/pkg/client/auth/oidc",
+                "1.5/rest",
+                "1.5/tools/cache",
+                "1.5/tools/clientcmd/api",
+                "1.5/tools/metrics",
+                "1.5/transport"
+            ]
+        }
+    ]
+}
