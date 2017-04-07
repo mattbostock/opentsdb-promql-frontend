@@ -4,6 +4,8 @@ Currently an early proof-of-concept.
 
 A HTTP proxy that supports a subset of the [Prometheus API][], accepting [PromQL][] queries and answering them with data pulled from OpenTSDB.
 
+![Screenshot](screenshot.jpg)
+
 [Prometheus API]: https://prometheus.io/
 [PromQL]: https://prometheus.io/docs/querying/basics/
 
